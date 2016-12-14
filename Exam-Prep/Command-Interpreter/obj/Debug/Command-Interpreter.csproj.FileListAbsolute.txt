@@ -1,0 +1,6 @@
+c:\users\acheb\documents\visual studio 2015\Projects\Exam-Prep\Command-Interpreter\bin\Debug\Command-Interpreter.exe.config
+c:\users\acheb\documents\visual studio 2015\Projects\Exam-Prep\Command-Interpreter\bin\Debug\Command-Interpreter.exe
+c:\users\acheb\documents\visual studio 2015\Projects\Exam-Prep\Command-Interpreter\bin\Debug\Command-Interpreter.pdb
+c:\users\acheb\documents\visual studio 2015\Projects\Exam-Prep\Command-Interpreter\obj\Debug\Command-Interpreter.exe
+c:\users\acheb\documents\visual studio 2015\Projects\Exam-Prep\Command-Interpreter\obj\Debug\Command-Interpreter.pdb
+c:\users\acheb\documents\visual studio 2015\Projects\Exam-Prep\Command-Interpreter\obj\Debug\Command-Interpreter.csprojResolveAssemblyReference.cache

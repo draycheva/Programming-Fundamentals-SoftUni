@@ -1,0 +1,6 @@
+c:\users\acheb\documents\visual studio 2015\Projects\Exam-Prep\Coffee-Orders\bin\Debug\Coffee-Orders.exe.config
+c:\users\acheb\documents\visual studio 2015\Projects\Exam-Prep\Coffee-Orders\bin\Debug\Coffee-Orders.exe
+c:\users\acheb\documents\visual studio 2015\Projects\Exam-Prep\Coffee-Orders\bin\Debug\Coffee-Orders.pdb
+c:\users\acheb\documents\visual studio 2015\Projects\Exam-Prep\Coffee-Orders\obj\Debug\Coffee-Orders.csprojResolveAssemblyReference.cache
+c:\users\acheb\documents\visual studio 2015\Projects\Exam-Prep\Coffee-Orders\obj\Debug\Coffee-Orders.exe
+c:\users\acheb\documents\visual studio 2015\Projects\Exam-Prep\Coffee-Orders\obj\Debug\Coffee-Orders.pdb

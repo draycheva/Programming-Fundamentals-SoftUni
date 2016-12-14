@@ -1,0 +1,6 @@
+c:\users\acheb\documents\visual studio 2015\Projects\Exam-Prep\Files\bin\Debug\Files.exe.config
+c:\users\acheb\documents\visual studio 2015\Projects\Exam-Prep\Files\bin\Debug\Files.exe
+c:\users\acheb\documents\visual studio 2015\Projects\Exam-Prep\Files\bin\Debug\Files.pdb
+c:\users\acheb\documents\visual studio 2015\Projects\Exam-Prep\Files\obj\Debug\Files.csprojResolveAssemblyReference.cache
+c:\users\acheb\documents\visual studio 2015\Projects\Exam-Prep\Files\obj\Debug\Files.exe
+c:\users\acheb\documents\visual studio 2015\Projects\Exam-Prep\Files\obj\Debug\Files.pdb
